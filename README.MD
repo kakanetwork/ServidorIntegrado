@@ -1,6 +1,4 @@
 # Projeto Server-Client Local
-(para os novatos: não, o código não está aqui)
-### 
 
 ### Libs Utilizadas:
 ##### Padrões:
