@@ -51,6 +51,8 @@
   - /log: Esta comando irá te enviar pelo telegram remotamente o Log Atual/Completo do servidor.
   - Avisos de conexões: O servidor está configurado para enviar automaticamente uma mensagem de "aviso de conexão" para qualquer cliente que se conectar ao servidor.
 
+<code> - by kakanetwork </code>
+
 <h2 align="center">👀 Mais informações</h2>
 <p align="center">
     Para mais informações sobre os projetos presentes neste repositório ou para sugerir alterações e correções, entre em contato comigo pelo meu perfil do GitHub, Instagram ou Linkedin.
@@ -62,5 +64,5 @@
     
 </div>
 
-<code> - by kakanetwork </code>
+
 
