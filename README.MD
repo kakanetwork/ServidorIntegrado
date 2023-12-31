@@ -1,5 +1,13 @@
 # Projeto Server-Client Local
 
+<p align="center">
+  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=fe428e&style=for-the-badge"/>
+
+  <img src="http://img.shields.io/static/v1?label=Python&message=3.11.0&color=fe428e&style=for-the-badge&logo=python&logoColor=white"/>
+
+   <img src="http://img.shields.io/static/v1?label=STATUS&message=FINALIZADO&color=fe428e&style=for-the-badge"/>
+</p>
+
 ### Libs Utilizadas:
 ##### Padrões:
     - os, sys, time, logging.config, logging, socket, threading, ssl 
