@@ -1,4 +1,5 @@
-# Projeto Server-Client Local
+
+<h2 align="center">📌 Projeto Server-Client Local</h2>
 
 <p align="center">
   <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=fe428e&style=for-the-badge"/>
